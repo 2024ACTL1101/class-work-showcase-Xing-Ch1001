@@ -143,7 +143,7 @@ ROI<-(abs(total_profit_loss)/total_invested_capital)*100
 print(ROI) # Showing what the ROI is for this strategy
 ```
 
-## Step 5: Profit-Taking Strategy or Stop-Loss Mechanisum (Choose 1)
+## Step 5: Profit-Taking Strategy or Stop-Loss Mechanism (Choose 1)
 
 -   Option 1: Implement a profit-taking strategy that you sell half of your holdings if the price has increased by a certain percentage (e.g., 20%) from the average purchase price.
 -   Option 2: Implement a stop-loss mechanism in the trading strategy that you sell half of your holdings if the stock falls by a certain percentage (e.g., 20%) from the average purchase price. You don't need to buy 100 stocks on the days that the stop-loss mechanism is triggered.
