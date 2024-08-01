@@ -1,7 +1,6 @@
 ---
 title: "ACTL1101 Assignment Part A"
 author: "Xing Chen"
-date: "2024 T2"
 output:
   pdf_document: default
   html_document:
