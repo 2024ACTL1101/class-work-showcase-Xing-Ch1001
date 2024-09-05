@@ -1,8 +1,9 @@
 # Introduction to Actuarial Studies 
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
-_Note: the md files have not been configured properly so it is recommended that the assignments are viewed in their PDF files instead to provide a clear exhibtion of the assigned material_
 ---
+_Note: the md files have not been configured properly so it is recommended that the assignments are viewed in their PDF files instead to provide a clear exhibtion of the assigned material_
+
 ![Quest Guide](quest.jpg)
 
 
